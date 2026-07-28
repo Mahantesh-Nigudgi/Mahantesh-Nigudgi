@@ -4,6 +4,27 @@
 
 # 🚀 Machine Learning Engineer • Data Analyst • Python Developer • Backend Engineer
 
+---
+
+# 💫 About Me
+
+```yaml
+Name: Mahantesh S Nigudgi
+
+Role: Machine Learning Engineer
+
+Specializations:
+  - Machine Learning
+  - Generative AI
+  - LLM Applications
+  - Retrieval-Augmented Generation
+  - Backend Engineering
+  - Python Fullstack
+  - Django
+  - Data Structure and Algorithm(DSA)
+  - Structured Qurey Language(SQL)
+  - Snow Flake
+
 
 <!--
 **Mahantesh-Nigudgi/Mahantesh-Nigudgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

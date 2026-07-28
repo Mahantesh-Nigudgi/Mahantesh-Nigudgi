@@ -36,3 +36,31 @@ Specializations:
     - Structured Query Language(SQL)
     - Snowfake
 ```
+---
+
+# 🎯 Current Focus
+
+🟢 Building Production-Ready AI Applications
+
+🟢 Developing Enterprise RAG Systems
+
+🟢 Exploring Agentic AI Architectures
+
+🟢 Backend API Engineering
+
+🟢 Intelligent Workflow Automation
+
+🟢 Continuous Learning & Innovation
+
+---
+
+
+# ⚡ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=7" />
+
+</div>
+
+---

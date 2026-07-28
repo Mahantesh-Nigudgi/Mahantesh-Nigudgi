@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Mahantesh%20Nigdugi%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Mahantesh%20Nigdugi%20&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
 
 

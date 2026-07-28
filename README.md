@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Mahantesh%20S%20Nigdugi%20&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-# 🚀 Associate Machine Learning Engineer • Associate Data Analyst •  Associate Data Scientist Associate • Python Developer • Backend Engineer
+# 🚀 Aspiring Machine Learning Engineer • Data Analyst • Python Backend Developer
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Associate+Machine+Learning+Engineer;Associate+Data+Analyst;Associate+Data+Scientist;Backend+Engineer;Python+Develpoer" />
@@ -30,9 +30,9 @@ Specializations:
     - LLM Applications
     - Retrieval-Augmented Generation
     - Backend Engineering
-    - Python Fullstack
+    - Python
     - Django
-    - Data Structure and Algorithm(DSA)
-    - Structured Qurey Language(SQL)
-    - Snow Flake
+    - Data Structure & Algorithm(DSA)
+    - Structured Query Language(SQL)
+    - Snowfake
 ```

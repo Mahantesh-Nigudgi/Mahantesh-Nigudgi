@@ -6,8 +6,6 @@
 
 # 💫 About Me
 
-```yaml
-
 Name: Mahantesh S Nigudgi
 
 Role: Machine Learning Engineer

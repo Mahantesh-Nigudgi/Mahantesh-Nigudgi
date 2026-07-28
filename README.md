@@ -6,7 +6,7 @@
 
 ### Building Production-Ready AI Systems • LLM Applications • Intelligent Automation Solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Backend+Engineer;Python+Develpoer;Building+Production+Ready+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Associate+Data+Analyst;Associate+Data+Scientist;Backend+Engineer;Python+Develpoer;Building+Production+Ready+AI+Systems" />
 
 <br>
 

@@ -4,6 +4,7 @@
 
 # 🚀 Machine Learning Engineer • Data Analyst • Python Developer • Backend Engineer
 
+
 # 💫 About Me
 
 ```yaml
@@ -12,14 +13,14 @@ Name: Mahantesh S Nigudgi
 Role: Machine Learning Engineer
 
 Specializations:
-  - Machine Learning
-  - Generative AI
-  - LLM Applications
-  - Retrieval-Augmented Generation
-  - Backend Engineering
-  - Python Fullstack
-  - Django
-  - Data Structure and Algorithm(DSA)
-  - Structured Qurey Language(SQL)
-  - Snow Flake
+    - Machine Learning
+    - Generative AI
+    - LLM Applications
+    - Retrieval-Augmented Generation
+    - Backend Engineering
+    - Python Fullstack
+    - Django
+    - Data Structure and Algorithm(DSA)
+    - Structured Qurey Language(SQL)
+    - Snow Flake
 ```

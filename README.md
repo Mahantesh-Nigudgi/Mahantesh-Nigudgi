@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Mahantesh Nigudgi
 
+I'm passionate about Python, Data Analytics, and Machine Learning.
+
+Currently improving my skills by building projects using:
+
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Django
 <!--
 **Mahantesh-Nigudgi/Mahantesh-Nigudgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

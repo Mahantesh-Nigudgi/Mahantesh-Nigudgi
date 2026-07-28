@@ -4,12 +4,11 @@
 
 # 🚀 Machine Learning Engineer • Data Analyst • Python Developer • Backend Engineer
 
+---
 
 # 💫 About Me
 
-
 ```yaml
-
 Name: Mahantesh S Nigudgi
 
 Specializations:
@@ -23,5 +22,4 @@ Specializations:
     - Data Structure and Algorithm(DSA)
     - Structured Qurey Language(SQL)
     - Snow Flake
-
 ```

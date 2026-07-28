@@ -6,6 +6,7 @@
 
 # 💫 About Me
 
+```yaml
 Name: Mahantesh S Nigudgi
 
 Role: Machine Learning Engineer
@@ -21,3 +22,4 @@ Specializations:
   - Data Structure and Algorithm(DSA)
   - Structured Qurey Language(SQL)
   - Snow Flake
+```

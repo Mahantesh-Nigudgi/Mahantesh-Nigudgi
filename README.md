@@ -10,9 +10,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Specialization-ML%20%26%20LLM%20%26%20RAG-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Django-green?style=for-the-badge" />   
+
 
 </div>
 

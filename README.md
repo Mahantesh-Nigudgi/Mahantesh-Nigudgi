@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Mahantesh%20Nigdugi%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+
+
+
+
 # Hi 👋 I'm Mahantesh Nigudgi
 
 I'm passionate about Python, Data Analytics, and Machine Learning.

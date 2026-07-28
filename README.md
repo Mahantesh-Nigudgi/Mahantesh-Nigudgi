@@ -8,7 +8,7 @@
 
 # 💫 About Me
 
-```yamal
+```yaml
 
 Name: Mahantesh S Nigudgi
 

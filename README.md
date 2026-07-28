@@ -59,8 +59,32 @@ Specializations:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,django,fastapi,mysql,docker,git,linux,vscode&perline=7" />
 
 </div>
 
 ---
+
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahantesh-Nigudgi&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahantesh-nigudgi&theme=github-dark&hide_border=true&radius=16" />
+
+</div>
+
+---
+

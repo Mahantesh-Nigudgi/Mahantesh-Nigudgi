@@ -5,7 +5,7 @@
 # 🚀 Aspiring Machine Learning Engineer • Data Analyst • Python Backend Developer
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Data+Analyst;Associate+Data+Scientist;Backend+Engineer;Python+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Data+Analyst;Backend+Engineer;Python+Developer" />
 
 <br>
 

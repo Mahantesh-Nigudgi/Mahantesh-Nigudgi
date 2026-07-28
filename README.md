@@ -4,8 +4,6 @@
 
 # 🚀 Machine Learning Engineer • Data Analyst • Python Developer • Backend Engineer
 
----
-
 # 💫 About Me
 
 ```yaml

@@ -7,8 +7,8 @@
 
 # 💫 About Me
 
-<p align=left>
-```yaml
+
+```text
 
 Name: Mahantesh S Nigudgi
 
